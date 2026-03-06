@@ -2,6 +2,39 @@
 
 Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 
+## [2.1] - 06/03/2026
+
+### Adicionado
+- **Portal Web Full-Stack** — Aplicação completa com React 19 + tRPC + TiDB, hospedada na Manus
+- **Sistema de Mentorados** — Páginas de lista, perfil individual e cadastro de mentorados
+- **Sistema de Papéis** — 5 papéis (Mentor, Mentorado, Supervisor, Revisor, Operador) com controle de acesso
+- **Banco de Dados** — 8 tabelas (users, mentorados, membros, reunioes, documentos, progresso, gamificacao, indicadores)
+- **Scripts de Backup/Restauração** — backup-db.mjs e restore-db.mjs para exportação/importação JSON
+- **Documentação de Backup** — BACKUP.md com estratégia completa de backup e restauração
+- **Script de Apresentação (Reunião 1)** — 05-script-apresentacao-15min-v2.md otimizado para leitura
+- **Script de Mapeamento Fiscal (Reunião 2)** — 08-script-semana-1-terca-mapeamento-fiscal.md
+- **Mapa de Materiais por Reunião** — 06-mapa-materiais-por-reuniao.md (matriz de 60 reuniões)
+- **Template de Pasta por Cliente** — 07-template-pasta-cliente.md (estrutura replicável)
+- **Código do portal exportado** para pasta `portal-web/` no repositório GitHub
+- **11 testes vitest** passando para validação do backend
+
+### Alterado
+- Dashboard atualizado com link para Mentorados na navegação
+- Repositório expandido com pasta portal-web contendo código-fonte completo
+
+### Removido
+- N/A
+
+### Corrigido
+- N/A
+
+### Notas Importantes
+- Portal web hospedado na Manus com deploy automático
+- Código-fonte no GitHub serve como backup versionado e referência
+- Backups do banco de dados devem ser realizados conforme frequência recomendada no BACKUP.md
+
+---
+
 ## [2.0] - 06/03/2026
 
 ### Adicionado
