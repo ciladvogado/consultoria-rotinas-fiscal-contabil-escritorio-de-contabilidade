@@ -22,9 +22,9 @@ Os itens abaixo estão priorizados para a próxima grande atualização do plano
 
 | Prioridade | Tipo | Título da Ideia | Módulo(s) Impactado(s) | Issue Relacionada |
 |---|---|---|---|---|
-| **Alta** | Expansão | Detalhar os POPs individuais | Módulo 3 | A ser criada |
-| **Alta** | Melhoria | Complementar com base legal em todos os módulos | Todos | A ser criada |
-| **Média** | Nova Funcionalidade | Criar um guia de implementação do Kanban em uma ferramenta específica (ex: Notion) | Módulo 4 | A ser criada |
+| **Alta** | Expansão | Detalhar os POPs individuais | Módulo 3 | [#4](https://github.com/ciladvogado/consultoria-rotinas-fiscal-contabil-escritorio-de-contabilidade/issues/4) |
+| **Alta** | Melhoria | Complementar com base legal em todos os módulos | Todos | [#5](https://github.com/ciladvogado/consultoria-rotinas-fiscal-contabil-escritorio-de-contabilidade/issues/5) |
+| **Média** | Nova Funcionalidade | Criar um guia de implementação do Kanban em uma ferramenta específica (ex: Notion) | Módulo 4 | [#6](https://github.com/ciladvogado/consultoria-rotinas-fiscal-contabil-escritorio-de-contabilidade/issues/6) |
 
 ---
 
@@ -34,9 +34,9 @@ Estas são ideias aprovadas que estão no backlog para serem implementadas em ve
 
 | Prioridade | Tipo | Título da Ideia | Módulo(s) Impactado(s) | Issue Relacionada |
 |---|---|---|---|---|
-| **Média** | Nova Funcionalidade | Criar templates de dashboards de indicadores e gamificação (ex: em Google Sheets) | Módulo 6, Módulo 9 | A ser criada |
-| **Baixa** | Expansão | Expandir o catálogo com obrigações setoriais específicas (ex: construção civil, saúde) | Módulo 2 | A ser criada |
-| **Baixa** | Melhoria | Criar um glossário de termos fiscais e contábeis | Geral | A ser criada |
+| **Média** | Nova Funcionalidade | Criar templates de dashboards de indicadores e gamificação (ex: em Google Sheets) | Módulo 6, Módulo 9 | [#7](https://github.com/ciladvogado/consultoria-rotinas-fiscal-contabil-escritorio-de-contabilidade/issues/7) |
+| **Baixa** | Expansão | Expandir o catálogo com obrigações setoriais específicas (ex: construção civil, saúde) | Módulo 2 | [#8](https://github.com/ciladvogado/consultoria-rotinas-fiscal-contabil-escritorio-de-contabilidade/issues/8) |
+| **Baixa** | Melhoria | Criar um glossário de termos fiscais e contábeis | Geral | [#9](https://github.com/ciladvogado/consultoria-rotinas-fiscal-contabil-escritorio-de-contabilidade/issues/9) |
 
 ---
 
